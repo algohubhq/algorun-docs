@@ -1,1 +1,1 @@
-export {ReactComponent as Logo} from '../../assets/algohub-logo.svg';
+export {ReactComponent as default} from '../../assets/algohub-logo.svg';
