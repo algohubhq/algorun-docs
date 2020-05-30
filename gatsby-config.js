@@ -20,7 +20,7 @@ module.exports = {
         contentDir: 'docs',
         defaultVersion: '1',
         versions: {
-          '1': 'version-1',
+          '1': 'v1',
         },
         sidebarCategories: {
           null: [
