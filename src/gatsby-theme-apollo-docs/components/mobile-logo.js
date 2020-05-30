@@ -1,0 +1,1 @@
+export {ReactComponent as MobileLogo} from '../../assets/algohub-icon.svg';
